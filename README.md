@@ -190,39 +190,6 @@ You can also host it via GitHub Pages or any static hosting if you want students
 
 ---
 
-## 📄 Pedagogical Report (report_pedagogical.tex)
-
-The LaTeX report (e.g. `report_pedagogical.tex`) explains **how** and **why** this mini-course is designed the way it is.
-
-It covers:
-
-1. **Teaching Philosophy**  
-   - Target audience assumptions  
-   - Learning objectives  
-   - Rationale for the Explain → Show → Try structure  
-
-2. **Concept Deep Dive**  
-   - Technical foundations of RAG  
-   - Mathematical perspective on embeddings and similarity  
-   - Connection to INFO 7390 themes: **GIGO, Botspeak, computational skepticism**  
-
-3. **Implementation Analysis**  
-   - Architecture and design decisions  
-   - Libraries and tools chosen  
-   - Performance considerations, edge cases, and limitations  
-
-4. **Assessment & Effectiveness**  
-   - Exercises and quiz design  
-   - Debugging guide  
-   - How the materials support different learning styles  
-
-Compile with:
-
-```bash
-pdflatex report_pedagogical.tex
-```
-
-(Or open it directly in Overleaf.)
 
 ---
 
@@ -244,7 +211,7 @@ The project includes or assumes a **5–10 minute screen recording** that:
   - Explains how to run and modify the notebook themselves  
 
 > **Video link placeholder:**  
-> `📺 Video: [Add your unlisted YouTube / Vimeo link here]`
+> `📺 Video: [https://drive.google.com/file/d/1610Ki9TCE2IJvqelVIiJhYi2uLDA6eyy/view?usp=sharing]`
 
 ---
 
